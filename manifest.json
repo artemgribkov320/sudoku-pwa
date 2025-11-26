@@ -1,0 +1,23 @@
+{
+  "name": "Sudoku Mobile Pro",
+  "short_name": "Sudoku",
+  "description": "Mobile Sudoku with keypad, hints, offline mode.",
+  "start_url": "sudoku_mobile.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
