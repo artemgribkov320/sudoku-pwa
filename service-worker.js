@@ -1,7 +1,7 @@
 const CACHE_NAME = "sudoku-mobile-v1";
 const FILES_TO_CACHE = [
   "./",
-  "./sudoku_mobile.html",
+  "./index.html",
   "./manifest.json",
   "./service-worker.js",
   "./icons/icon-192.png",
