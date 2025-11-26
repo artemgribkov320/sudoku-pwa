@@ -2,7 +2,7 @@
   "name": "Sudoku Mobile Pro",
   "short_name": "Sudoku",
   "description": "Mobile Sudoku with keypad, hints, offline mode.",
-  "start_url": "sudoku_mobile.html",
+  "start_url": "index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
